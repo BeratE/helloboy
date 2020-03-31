@@ -1,0 +1,10 @@
+# emacs files
+*~
+
+# build files
+build
+*.elf
+*.gba
+
+# emulator
+*.sav
